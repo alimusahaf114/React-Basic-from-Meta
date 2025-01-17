@@ -1,0 +1,22 @@
+.mainnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: #7dd8ef;
+  color: #333333;
+  font-family: Lato;
+  height: 90px;
+}
+ul {
+  display: flex;
+  margin-right: 30px;
+}
+li {
+  margin-right: 30px;
+  list-style: none;
+}
+.link {
+  all: unset;
+  cursor: pointer;
+}
